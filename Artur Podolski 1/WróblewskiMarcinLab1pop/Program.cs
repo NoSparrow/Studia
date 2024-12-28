@@ -1,16 +1,22 @@
 ﻿// 1) **********************************************************************************
 
 /*
-using System;
+using System; //Podpiecie systemu nazw z przestrzeni System do progrmu - można kożystać z klass zawartych w przestrzeni nazw "System" 
 
-namespace MojaAplikacja
+namespace MojaAplikacja // Utworzenie przestrzeni nazw
 {
-    class Program
+    class Program // Stworzenie klasy (Wzorca) o nazwie "Program"
     {
-        static void Main(string[] args)
+        static void Main(string[] args) //static: Oznacza, że metoda Main jest metodą statyczną. Nie musimy tworzyć instancji klasy Program, aby wywołać tę metodę. Jest to metoda, która zostaje wywołana automatycznie, gdy aplikacja się uruchamia | void: Określa, że metoda Main nie zwraca żadnej wartości | Main: To jest nazwa głównej metody w aplikacji, która jest punktem startowym programu. C# oczekuje, że każda aplikacja konsolowa będzie miała metodę Main, która jest pierwszą metodą wywołaną po uruchomieniu aplikacji | string[] args: To parametr, który przechowuje argumenty wiersza poleceń przekazywane do aplikacji. W tym przypadku args jest tablicą łańcuchów (string[])
         {
             Console.WriteLine("Hello Student...\n");
+            //Console: Jest to klasa z przestrzeni nazw System, która udostępnia metody do interakcji z konsolą (np. wypisywanie tekstu, odczytywanie danych od użytkownika)
+            //WriteLine: Jest to metoda klasy Console, która wypisuje tekst na ekranie i przechodzi do nowej linii. Różni się od metody Write, która nie przechodzi do nowej linii po wypisaniu tekstu
+            //"Hello Student...\n": To ciąg znaków (string), który zostanie wyświetlony na ekranie. Zawiera tekst „Hello Student...”, a \n to znak nowej linii, więc po wypisaniu tego tekstu kursor w konsoli przejdzie do kolejnej linii
+
+
             Console.ReadKey();
+            //Console.ReadKey(): Jest to metoda, która czeka na naciśnięcie dowolnego klawisza przez użytkownika. Po naciśnięciu klawisza, aplikacja kontynuuje działanie. Zwykle stosuje się ją, aby program nie zakończył się od razu po wyświetleniu wyników, a dał użytkownikowi czas na zobaczenie wypisanego tekstu
         }
     }
 }
@@ -32,10 +38,21 @@ namespace MojaAplikacja
        static void Main(string[] args)
        {
           int xx = 7;
+          //int: To typ danych w języku C#, który oznacza liczbę całkowitą. Jest to skrót od słowa "integer" (liczba całkowita
+          //xx: To nazwa zmiennej. W tym przypadku yy to zmienna, która przechowuje liczbę całkowitą. Nazwa zmiennej może być dowolna, ale zazwyczaj powinna odzwierciedlać, co ta zmienna reprezentuje
+
+
           int yy = 19;
           double zz = 5.248;
+          //double: To typ danych w C#, który przechowuje liczby zmiennoprzecinkowe, czyli liczby, które mogą mieć część dziesiętną
 
           Console.WriteLine("Pierwsza = {0}, Druga = {1}, Trzecia = {2}", xx, yy, zz);
+          //Po tekście, w metodzie WriteLine, podajemy zmienne, których wartości mają zostać wstawione w odpowiednie miejsca ({0}, {1}, {2}). W C# używamy miejsc formatowania ({0}, {1}, {2}) w celu wstawienia wartości zmiennych w określone miejsce w ciągu tekstowym. To pozwala na dynamiczne tworzenie tekstów, które zależą od wartości zmiennych
+
+
+
+
+
           Console.WriteLine("Pierwsza = {2}, Druga = {0}, Trzecia = {1}", xx, yy, zz);
           Console.ReadKey();
        }
@@ -64,14 +81,50 @@ namespace MojaAplikacja
 {
     public static double DoOperation(double num1, double num2, string op)
     {
+    //public: Jest to modyfikator dostępu. Oznacza, że metoda DoOperation jest dostępna publicznie, czyli może być wywoływana z dowolnego miejsca w programie, zarówno z innych klas, jak i z instancji obiektów tej klasy (jeśli metoda nie jest statyczna)
+
+    //static: Oznacza, że metoda jest statyczna. Metody statyczne nie wymagają tworzenia obiektu klasy, aby zostały wywołane. Są wywoływane bezpośrednio na klasie. W tym przypadku, aby wywołać metodę DoOperation, nie musimy tworzyć obiektu, tylko możemy używać jej bezpośrednio przez nazwę klasy (np. DoOperation(...))
+
+    //double: Oznacza, że metoda DoOperation zwraca wartość typu double (liczba zmiennoprzecinkowa). Metoda ta oblicza i zwraca wynik operacji matematycznej, który może zawierać część dziesiętną
+
+    //DoOperation: To jest nazwa metody. Nazwa metody powinna opisywać, co dana metoda robi. W tym przypadku sugeruje, że metoda wykonuje jakąś operację matematyczną na dwóch liczbach
+
+    //double num1: Pierwszy parametr metody, który reprezentuje liczbę zmiennoprzecinkową. Zmienna ta będzie przechowywać pierwszą liczbę, na której będziemy wykonywać operację
+
+    //double num2: Drugi parametr metody, również typu double, reprezentujący drugą liczbę, na której będzie wykonywana operacja
+
+    //string op: Trzeci parametr to łańcuch znaków (typ string). Przechowuje operację matematyczną, którą użytkownik chce wykonać
+
+
+
+
+
+
         double result = double.NaN; // Default value is "not-a-number" if an operation, such as division, could result in an error.
+        //przypisanie wartości NaN do zmiennej result(wynik zwracany przez metodę) - wartość bazowa która zostanie zwrócona jeśli nie zostanie zmieniona w dalszej części
+
+
+
+
+
+
 
         // Use a switch statement to do the math.
         switch (op)
         {
+        //wartość "op" jest porównywana do wartości przypisanej do każdego przypadku "case" - jeśli wartości są takie same kod zawarty w danym przypadku zostanie wykonany
             case "+":
                 result = num1 + num2;
+                //Do wyniku przypisuje się nową wartość stanowiącą wynik podanej operacji
+
+
+
                 break;
+                //break - powoduje opuszczenie pozostałego kodu metody switch
+
+
+
+
             case "-":
                 result = num1 - num2;
                 break;
@@ -88,8 +141,15 @@ namespace MojaAplikacja
             // Return text for an incorrect option entry.
             default:
                 break;
+            //Kod wykonywany w przypadku gdy wartość wpisana do metody nie odpowiada żadnemu przypadkowi
         }
+
+
+
+
+
         return result;
+        //Zakończenie metody poleceniem zwracającym wartość result
     }
 }
 
