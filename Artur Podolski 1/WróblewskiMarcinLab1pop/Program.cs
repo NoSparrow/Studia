@@ -168,6 +168,10 @@ namespace MojaAplikacja
         {
             Console.WriteLine("Wprowadź wartość zmiennoprzecinkową:");
             double x = double.Parse(Console.ReadLine());
+            //Wartość wprowadzona poprzez readline() zostaje przekonwertowana na liczbę zmienno przecinkową i przypisana do zmiennej x
+
+
+
             Console.WriteLine("Wprowadziłeś: {0} \n", x);
 
             Console.WriteLine("Wprowadź wartość całkowitą:");
@@ -202,6 +206,9 @@ namespace MojaAplikacja
             {
                 Console.WriteLine("Hello student...");
             }
+            //Pętla for (wartość początkowa ; warunek ; iteracja(i++ = (i = i + 1) ) ), kod wykonywany dopóki wartość i spełnia podany warunek, po przejściu do końca pętli następuje iteracja i ponowne sprawdzenie warunku - jeśli jest spełniony kod zostaje wykonany ponownie
+
+
             Console.ReadKey();
         }
     }
@@ -248,7 +255,17 @@ namespace MojaAplikacja
 
     // Poproś użytkownika o wpisanie pierwszej liczby.
     Console.WriteLine("Napisz liczbę i naciśnij Enter");
+
+
+
+
     num1 = Convert.ToDouble(Console.ReadLine());
+    //Convert.ToDouble() to metoda w języku C#, która konwertuje różne typy danych na typ double (liczbę zmiennoprzecinkową).W tym przypadku, Convert.ToDouble() używa wprowadzonego przez użytkownika tekstu (który został odczytany za pomocą Console.ReadLine()) i konwertuje go na liczbę typu double. Jest to alternatywa dla double.Parse(), ale różni się tym, że Convert.ToDouble() jest bardziej uniwersalna i bezpieczna, ponieważ może obsługiwać również wartości null (np. przy konwersji z typów obiektowych) lub niepoprawne dane wejściowe, próbując je przekonwertować w sposób bardziej tolerancyjny.
+
+
+
+
+
 
     // Poproś użytkownika o wpisanie drugiej liczby.
     Console.WriteLine("Napisz kolejną liczbę i naciśnij Enter");
@@ -333,12 +350,19 @@ class Program
     static void Main(string[] args)
     {
         bool endApp = false;
+        //Zmienna o wartości bool może być tylko false lub true
+
+
         // Display title as the C# console calculator app.
         Console.WriteLine("Kalkulator konsolowy w C#\r");
         Console.WriteLine("------------------------\n");
 
         while (!endApp)
         {
+            //Pętla wykonywana dopóki użytkownik nie wprowadzi żądanej wartości (zmienna z wykrzyknikiem to negacja, jeśli endApp = false to !endApp - True)
+
+
+            
             // Declare variables and set to empty.
             string numInput1 = "";
             string numInput2 = "";
@@ -389,6 +413,14 @@ class Program
             {
                 Console.WriteLine("Napotkano błąd podczas operacji.\n - Details: " + e.Message);
             }
+            //try-catch to mechanizm obsługi wyjątków w C#. Służy do przechwytywania błędów (wyjątków), które mogą wystąpić w czasie działania programu, i umożliwia odpowiednie reagowanie na te błędy.
+            //try: W tej sekcji umieszczamy kod, który może wywołać wyjątek. Jeżeli wystąpi błąd w obrębie tego bloku, program przejdzie do bloku catch.
+            //catch: Sekcja ta przechwytuje wyjątek i pozwala na jego obsługę. W tym przypadku, jeśli coś pójdzie nie tak w funkcji Calculator.DoOperation(), wyjątek zostanie przechwycony, a użytkownik otrzyma komunikat o błędzie
+            //W tym kodzie mamy try-catch wokół wywołania metody Calculator.DoOperation(), co oznacza, że program spróbuje wykonać operację matematyczną, a jeśli wystąpi błąd (np. nieprawidłowy operator), wyświetli stosowny komunikat o błędzie
+
+
+
+
 
             Console.WriteLine("------------------------\n");
 
@@ -404,8 +436,7 @@ class Program
 
 
 
-// Proszę o info czy taka forma jest ok
-
+// Poprawione
 
 
 
