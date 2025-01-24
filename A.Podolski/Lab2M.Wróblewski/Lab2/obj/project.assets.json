@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1M.Wróblewski/WróblewskiMarcinLab1pop.csproj",
-      "projectName": "WróblewskiMarcinLab1pop",
-      "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1M.Wróblewski/WróblewskiMarcinLab1pop.csproj",
+      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2M.Wróblewski/Lab2/Lab2.csproj",
+      "projectName": "Lab2",
+      "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2M.Wróblewski/Lab2/Lab2.csproj",
       "packagesPath": "/home/marcin/.nuget/packages/",
-      "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1M.Wróblewski/obj/",
+      "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2M.Wróblewski/Lab2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marcin/.nuget/NuGet/NuGet.Config"
