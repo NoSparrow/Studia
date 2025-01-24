@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WróblewskiMarcinLab1pop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e48eec8155a0c572c0ba0386ce9ec49f14b69f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+497b35d4cbd43f4a4728dea4a4b0868d0c173a45")]
 [assembly: System.Reflection.AssemblyProductAttribute("WróblewskiMarcinLab1pop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WróblewskiMarcinLab1pop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
