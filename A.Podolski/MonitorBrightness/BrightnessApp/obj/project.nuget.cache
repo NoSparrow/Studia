@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "paiEP7mDA1g=",
+  "dgSpecHash": "kpeO/DmtN78=",
   "success": true,
   "projectFilePath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/MonitorBrightness/BrightnessApp/BrightnessApp.csproj",
-  "expectedPackageFiles": [
-    "/home/marcin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/9.0.1/microsoft.netcore.app.runtime.linux-x64.9.0.1.nupkg.sha512",
-    "/home/marcin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/9.0.1/microsoft.aspnetcore.app.runtime.linux-x64.9.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

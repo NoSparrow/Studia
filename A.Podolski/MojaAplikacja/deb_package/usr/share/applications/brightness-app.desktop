@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Brightness App
+Comment=Adjust the brightness of your monitor
+Exec=/usr/local/bin/brightness-app
+Icon=/usr/share/pixmaps/brightness_icon.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;

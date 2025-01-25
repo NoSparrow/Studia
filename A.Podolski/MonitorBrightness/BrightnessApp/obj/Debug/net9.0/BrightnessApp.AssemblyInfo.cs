@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BrightnessApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83dca2e1f9dc12969503beedc7f2963503fc7ff0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5e5bddbdec7c29885c351c565758645f2ef6a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BrightnessApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BrightnessApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

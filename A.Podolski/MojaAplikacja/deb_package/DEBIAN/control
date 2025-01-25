@@ -1,0 +1,8 @@
+Package: brightness-app
+Version: 1.0
+Architecture: amd64
+Maintainer: Marcin Wróblewski 22134
+Description: A simple brightness control application that uses ddcutil to change the monitor brightness.
+Depends: libc6 (>= 2.30), dotnet-runtime-6.0, ddcutil
+Priority: optional
+Section: utils
