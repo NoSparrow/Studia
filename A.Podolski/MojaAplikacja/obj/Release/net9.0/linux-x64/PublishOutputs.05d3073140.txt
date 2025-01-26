@@ -1,5 +1,0 @@
-/home/marcin/Pulpit/MojaAplikacja/publish/BrightnessApp
-/home/marcin/Pulpit/MojaAplikacja/publish/BrightnessApp.dll
-/home/marcin/Pulpit/MojaAplikacja/publish/BrightnessApp.deps.json
-/home/marcin/Pulpit/MojaAplikacja/publish/BrightnessApp.runtimeconfig.json
-/home/marcin/Pulpit/MojaAplikacja/publish/BrightnessApp.pdb
