@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/bin/Debug/net9.0/Lab2Polecenie8
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/bin/Debug/net9.0/Lab2Polecenie8.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/bin/Debug/net9.0/Lab2Polecenie8.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/bin/Debug/net9.0/Lab2Polecenie8.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/bin/Debug/net9.0/Lab2Polecenie8.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/refint/Lab2Polecenie8.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/Lab2Polecenie8.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie8/obj/Debug/net9.0/ref/Lab2Polecenie8.dll
