@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/bin/Debug/net9.0/Lab2Polecenie3-4
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/bin/Debug/net9.0/Lab2Polecenie3-4.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/bin/Debug/net9.0/Lab2Polecenie3-4.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/bin/Debug/net9.0/Lab2Polecenie3-4.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/bin/Debug/net9.0/Lab2Polecenie3-4.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/refint/Lab2Polecenie3-4.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/Lab2Polecenie3-4.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/Debug/net9.0/ref/Lab2Polecenie3-4.dll
