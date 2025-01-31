@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/bin/Debug/net9.0/Lab4Zaj3Cw2
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/bin/Debug/net9.0/Lab4Zaj3Cw2.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/bin/Debug/net9.0/Lab4Zaj3Cw2.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/bin/Debug/net9.0/Lab4Zaj3Cw2.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/bin/Debug/net9.0/Lab4Zaj3Cw2.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/refint/Lab4Zaj3Cw2.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/Lab4Zaj3Cw2.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj3Cw2/obj/Debug/net9.0/ref/Lab4Zaj3Cw2.dll
