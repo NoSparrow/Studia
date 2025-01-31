@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/bin/Debug/net9.0/Lab5Zad1B
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/bin/Debug/net9.0/Lab5Zad1B.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/bin/Debug/net9.0/Lab5Zad1B.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/bin/Debug/net9.0/Lab5Zad1B.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/bin/Debug/net9.0/Lab5Zad1B.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/refint/Lab5Zad1B.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/Lab5Zad1B.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/Debug/net9.0/ref/Lab5Zad1B.dll

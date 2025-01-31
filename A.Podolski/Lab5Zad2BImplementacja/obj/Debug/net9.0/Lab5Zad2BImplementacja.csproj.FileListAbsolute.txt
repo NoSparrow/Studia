@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/bin/Debug/net9.0/Lab5Zad2BImplementacja
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/bin/Debug/net9.0/Lab5Zad2BImplementacja.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/bin/Debug/net9.0/Lab5Zad2BImplementacja.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/bin/Debug/net9.0/Lab5Zad2BImplementacja.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/bin/Debug/net9.0/Lab5Zad2BImplementacja.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/refint/Lab5Zad2BImplementacja.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/Lab5Zad2BImplementacja.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BImplementacja/obj/Debug/net9.0/ref/Lab5Zad2BImplementacja.dll

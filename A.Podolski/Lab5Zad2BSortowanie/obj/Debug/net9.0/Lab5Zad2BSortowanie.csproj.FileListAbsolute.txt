@@ -1,0 +1,15 @@
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/bin/Debug/net9.0/Lab5Zad2BSortowanie
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/bin/Debug/net9.0/Lab5Zad2BSortowanie.deps.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/bin/Debug/net9.0/Lab5Zad2BSortowanie.runtimeconfig.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/bin/Debug/net9.0/Lab5Zad2BSortowanie.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/bin/Debug/net9.0/Lab5Zad2BSortowanie.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.AssemblyInfoInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.AssemblyInfo.cs
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.csproj.CoreCompileInputs.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.sourcelink.json
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/refint/Lab5Zad2BSortowanie.dll
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.pdb
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/Lab5Zad2BSortowanie.genruntimeconfig.cache
+/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad2BSortowanie/obj/Debug/net9.0/ref/Lab5Zad2BSortowanie.dll
