@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj": {}
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj": {}
   },
   "projects": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj": {
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj",
+        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj",
         "projectName": "Lab2Polecenie5",
-        "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj",
+        "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie5/Lab2Polecenie5.csproj",
         "packagesPath": "/home/marcin/.nuget/packages/",
-        "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie5/obj/",
+        "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcin/.nuget/NuGet/NuGet.Config"

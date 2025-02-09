@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/Lab2Polecenie3-4.csproj",
+      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie3-4/Lab2Polecenie3-4.csproj",
       "projectName": "Lab2Polecenie3-4",
-      "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/Lab2Polecenie3-4.csproj",
+      "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie3-4/Lab2Polecenie3-4.csproj",
       "packagesPath": "/home/marcin/.nuget/packages/",
-      "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab2Polecenie3-4/obj/",
+      "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab2Polecenie3-4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marcin/.nuget/NuGet/NuGet.Config"
