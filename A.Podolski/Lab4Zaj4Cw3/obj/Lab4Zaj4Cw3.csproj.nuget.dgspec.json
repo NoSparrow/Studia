@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj": {}
+    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj": {}
   },
   "projects": {
-    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj": {
+    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj",
+        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj",
         "projectName": "Lab4Zaj4Cw3",
-        "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj",
+        "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw3/Lab4Zaj4Cw3.csproj",
         "packagesPath": "/home/marcin/.nuget/packages/",
-        "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw3/obj/",
+        "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcin/.nuget/NuGet/NuGet.Config"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net9.0": {
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
