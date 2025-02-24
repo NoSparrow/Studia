@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/Lab5Zad1B.csproj",
+      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad1B/Lab5Zad1B.csproj",
       "projectName": "Lab5Zad1B",
-      "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/Lab5Zad1B.csproj",
+      "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad1B/Lab5Zad1B.csproj",
       "packagesPath": "/home/marcin/.nuget/packages/",
-      "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad1B/obj/",
+      "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad1B/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marcin/.nuget/NuGet/NuGet.Config"

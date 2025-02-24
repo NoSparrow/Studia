@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj": {}
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj": {}
   },
   "projects": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj": {
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj",
+        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj",
         "projectName": "Lab4Zaj4Cw2",
-        "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj",
+        "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw2/Lab4Zaj4Cw2.csproj",
         "packagesPath": "/home/marcin/.nuget/packages/",
-        "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab4Zaj4Cw2/obj/",
+        "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab4Zaj4Cw2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcin/.nuget/NuGet/NuGet.Config"

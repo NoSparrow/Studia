@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj": {}
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj": {}
   },
   "projects": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj": {
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj",
+        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj",
         "projectName": "Lab5Zad3A",
-        "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj",
+        "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad3A/Lab5Zad3A.csproj",
         "packagesPath": "/home/marcin/.nuget/packages/",
-        "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab5Zad3A/obj/",
+        "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab5Zad3A/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcin/.nuget/NuGet/NuGet.Config"

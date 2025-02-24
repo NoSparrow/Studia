@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj": {}
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj": {}
   },
   "projects": {
-    "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj": {
+    "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj",
+        "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj",
         "projectName": "Lab3Polecenie4",
-        "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj",
+        "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab3Polecenie4/Lab3Polecenie4.csproj",
         "packagesPath": "/home/marcin/.nuget/packages/",
-        "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab3Polecenie4/obj/",
+        "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab3Polecenie4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/marcin/.nuget/NuGet/NuGet.Config"

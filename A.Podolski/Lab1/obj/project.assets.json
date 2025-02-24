@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1/Lab1.csproj",
+      "projectUniqueName": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab1/Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1/Lab1.csproj",
+      "projectPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab1/Lab1.csproj",
       "packagesPath": "/home/marcin/.nuget/packages/",
-      "outputPath": "/home/marcin/Pulpit/Programowanie/GitKraken/Studia/A.Podolski/Lab1/obj/",
+      "outputPath": "/home/marcin/Pulpit/Programowanie/Studia/A.Podolski/Lab1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/marcin/.nuget/NuGet/NuGet.Config"
